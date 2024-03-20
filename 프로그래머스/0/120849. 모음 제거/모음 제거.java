@@ -5,3 +5,6 @@ class Solution {
         return answer;
     }
 }
+/*
+정규표현식을 이용하여 소문자만 허용, aeiou를 제외.
+*/
