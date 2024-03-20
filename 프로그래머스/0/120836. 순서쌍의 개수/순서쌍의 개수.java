@@ -9,3 +9,7 @@ class Solution {
         return answer;
     }
 }
+
+/*
+순서쌍의 개수는 약수의 개수와 같다.
+*/
