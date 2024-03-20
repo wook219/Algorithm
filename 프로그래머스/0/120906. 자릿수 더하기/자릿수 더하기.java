@@ -12,6 +12,8 @@ class Solution {
 }
 
 /*
+처음에 했던 풀이. 성능 개구짐
+
 class Solution {
     public int solution(int n) {
         int answer = 0;
